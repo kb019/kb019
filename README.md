@@ -44,22 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kb019&show_icons=true&theme=tokyonight&hide_border=true" alt="Bhargav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kb019&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

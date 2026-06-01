@@ -26,7 +26,6 @@
 
 ## 🚀 About Me
 
-- 🎓 M.S. Software Engineering student at **Arizona State University**
 - 💻 Passionate about building scalable **full-stack applications**
 - ☁️ Currently learning and exploring **Cloud Engineering**
 - ⚙️ Interested in **distributed systems, backend engineering, DevOps, and AI-powered tools**

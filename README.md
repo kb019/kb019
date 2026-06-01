@@ -1,32 +1,92 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bhargav%20Kodali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Bhargav Kodali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3 align="center">
+  Full-Stack Software Engineer | Cloud Enthusiast | AI Explorer
+</h3>
 
-- 🌱 I’m currently learning **Cloud Engineering**
-
-- 💬 Ask me about **React.js AWS**
-
-- 📫 How to reach me **kodalibhargav019@gmail.com**
-
-<h3 align="left">Profiles:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/kb019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kb019" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kb019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kb019" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:bkodali@asu.edu">
+    <img src="https://img.shields.io/badge/Email-bkodali%40asu.edu-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/kb019">
+    <img src="https://img.shields.io/badge/GitHub-kb019-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kodali-bhargav">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Kodali-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
+---
 
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+- 🎓 M.S. Software Engineering student at **Arizona State University**
+- 💻 Passionate about building scalable **full-stack applications**
+- ☁️ Currently learning and exploring **Cloud Engineering**
+- ⚙️ Interested in **distributed systems, backend engineering, DevOps, and AI-powered tools**
+- 🌱 Always improving my skills in **Java, Spring Boot, React, TypeScript, AWS, Docker, and Kubernetes**
+- 📍 Based in **Phoenix, Arizona**
+- ✈️ Open to relocation and new opportunities
 
+---
 
+## 🧠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,react,nextjs,nodejs,spring,nestjs,html,css,tailwind,aws,docker,kubernetes,postgres,elasticsearch,git,githubactions,linux" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kb019&" alt="kb019" /></p>
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kb019&show_icons=true&theme=tokyonight&hide_border=true" alt="Bhargav's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kb019&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:bkodali@asu.edu">
+    <img src="https://img.shields.io/badge/Email-bkodali%40asu.edu-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/kb019">
+    <img src="https://img.shields.io/badge/GitHub-kb019-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kodali-bhargav">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Kodali-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/kb019">
+    <img src="https://img.shields.io/badge/LeetCode-kb019-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://stackoverflow.com/users/kb019">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-kb019-orange?style=for-the-badge&logo=stackoverflow" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting! 🚀</h3>
+  <p>Always curious, always building, always learning.</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+</div>
